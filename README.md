@@ -11,3 +11,6 @@ We were shown how to make No-Code Dashboards. We integrated Microsoft Power BI t
 * Microsoft Teams to analyze Team activity 
 * Sharepoint, where we uploaded the Financial Sample Data from Day 1 to a site and generated a dashboard without doing anything.
 * Powerpoint, where we can upload dashboard links to powerpoint slides and have dashboards that change in real-time for presentations.
+
+## Day 3
+We created a Dashboard with Microsoft Excel using the Covid 19 data that we scraped in Day 2. We created pivot tables and different types of charts, we used slicers to make filters and we added images to the dashboard.
