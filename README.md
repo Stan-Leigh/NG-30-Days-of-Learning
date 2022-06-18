@@ -14,3 +14,6 @@ We were shown how to make No-Code Dashboards. We integrated Microsoft Power BI t
 
 ## Day 3
 We created a Dashboard with Microsoft Excel using the Covid 19 data that we scraped in Day 2. We created pivot tables and different types of charts, we used slicers to make filters and we added images to the dashboard.
+
+## Day 5
+Today, we had a meeting with industry experts on what it meant to work as a data analyst in corporate settings. The meeting was tagged "A Day in the life of a Data Analyst". We got to hear first hand stories of how our guests were able to break into the data space. Career advice was given to we who wanted to start our journey, and they answered the questions we had about their journey.
