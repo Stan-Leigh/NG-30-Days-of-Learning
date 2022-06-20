@@ -17,3 +17,6 @@ We created a Dashboard with Microsoft Excel using the Covid 19 data that we scra
 
 ## Day 5
 Today, we had a meeting with industry experts on what it meant to work as a data analyst in corporate settings. The meeting was tagged "A Day in the life of a Data Analyst". We got to hear first hand stories of how our guests were able to break into the data space. Career advice was given to we who wanted to start our journey, and they answered the questions we had about their journey.
+
+## Day 6/7
+Weekend! We did a recap of the activities and were encouraged to register for the Cloud skill challenge where were to complete a number of modules under the Data Analysis with Power BI track.
