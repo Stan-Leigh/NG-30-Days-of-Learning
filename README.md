@@ -21,5 +21,5 @@ Today, we had a meeting with industry experts on what it meant to work as a data
 ## Day 6/7
 Weekend! We did a recap of the activities and were encouraged to register for the Cloud skill challenge where were to complete a number of modules under the Data Analysis with Power BI track.
 
-# Day 8
+## Day 8
 We learnt about importing into Microsoft Power BI. We were shown how to import data from six different sources including Sharepoint, The web and SQL server database. After we were tasked with creating a practice dashboard using what we have been learning in the [Cloud skill challenge](https://aka.ms/30DLDataAnalysis).
