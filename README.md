@@ -23,3 +23,8 @@ Weekend! We did a recap of the activities and were encouraged to register for th
 
 ## Day 8
 We learnt about importing into Microsoft Power BI. We were shown how to import data from six different sources including Sharepoint, The web and SQL server database. After we were tasked with creating a practice dashboard using what we have been learning in the [Cloud skill challenge](https://aka.ms/30DLDataAnalysis).
+
+## Day 9
+Today, we were introduced to [Power Query](https://aka.ms/30DLDATPQEditor) and we also took lessons on Cleaning, Transforming and Loading data in Power BI. This lesson was part of the modules to be taken in the Cloud Skill Challenge.
+
+After, we were told to get data from a [site](https://www.bankrate.com/retirement/best-and-worst-states-for-retirement/) that had a table of the best US states to retire in and build a dashboard in Power BI.
