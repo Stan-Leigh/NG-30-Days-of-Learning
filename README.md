@@ -28,3 +28,8 @@ We learnt about importing into Microsoft Power BI. We were shown how to import d
 Today, we were introduced to [Power Query](https://aka.ms/30DLDATPQEditor) and we also took lessons on Cleaning, Transforming and Loading data in Power BI. This lesson was part of the modules to be taken in the Cloud Skill Challenge.
 
 After, we were told to get data from a [site](https://www.bankrate.com/retirement/best-and-worst-states-for-retirement/) that had a table of the best US states to retire in and build a dashboard in Power BI.
+
+## Day 10
+Today, we had a live session where we talked about Data Modelling, Relationships, Managing Relationships and Cardinality. The speaker, Ahmed Oyelowo demonstrated the use of Data Modelling by demonstrating how relationships between different tables are formed and how they are necessary if we are to be able to create visualizations using variables from different tables in Microsoft Power BI. He used this [dataset](https://aka.ms/30DLDATGitHubRepo) to demonstrate the concepts taught.
+
+After, we were asked to create a report using the newly modelled dataset.
