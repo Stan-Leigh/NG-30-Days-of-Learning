@@ -39,3 +39,6 @@ After, we were asked to create a report using the newly modelled dataset.
 Continuing for yesterday's session, we were introduced to Data Analysis Expressions (DAX) today, we saw how to create new variables (calculated columns) from already existing variables using DAX, how to create tables, how to filter tables, how to create measures, we even combined some of these concepts to create measures from filtered tables (used in the case when you want to exclude a particular value in your chart).
 
 We saw this applied on the Superstore dataset of the previous day, were we filtered out "Organic" from the Sales Team column then we calculated the Total Sales. This excluded "Organic" from a bar chart showing Sales by Sales Team. 
+
+## Day 13/14
+Weekend! We were motivated to completing the Cloud skills Challenge by Mr Oyinbooke, a Senior Cloud Advocate at Microsoft. We were also treated to interviews of fellow learners in the 30 days of learning journey, their stories and how much of an impact acquiring this skill would make in their career.
