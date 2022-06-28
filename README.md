@@ -42,3 +42,8 @@ We saw this applied on the Superstore dataset of the previous day, were we filte
 
 ## Day 13/14
 Weekend! We were motivated to completing the Cloud skills Challenge by Mr Oyinbooke, a Senior Cloud Advocate at Microsoft. We were also treated to interviews of fellow learners in the 30 days of learning journey, their stories and how much of an impact acquiring this skill would make in their career.
+
+## Day 15
+Today, We had a live session on the topic *Data Storytelling with PowerBI*. Our host was Paul Nnakwe, a Digital Media Specialist and Data Analyst. He spoke about storytelling and how to tell good stories with our data. He talked about use of colors, font, and other features in a visualization and how they are important in passing information accurately to your audience.
+
+After, we scraped tweet data. We scraped tweets from Twitter that used the hashtag #30DaysOfLearning and #NG30DaysOfLearning using Python and the snscrape library. We then loaded the data into Power BI, transformed the data and built an example dashboard, following our host's lead.
