@@ -47,3 +47,6 @@ Weekend! We were motivated to completing the Cloud skills Challenge by Mr Oyinbo
 Today, We had a live session on the topic *Data Storytelling with PowerBI*. Our host was Paul Nnakwe, a Digital Media Specialist and Data Analyst. He spoke about storytelling and how to tell good stories with our data. He talked about use of colors, font, and other features in a visualization and how they are important in passing information accurately to your audience.
 
 After, we scraped tweet data. We scraped tweets from Twitter that used the hashtag #30DaysOfLearning and #NG30DaysOfLearning using Python and the snscrape library. We then loaded the data into Power BI, transformed the data and built an example dashboard, following our host's lead.
+
+## Day 16
+Today's session was a continuation of yesterday's session. We finished building the report on PowerBI. We made an Overview page, Summary page and a Content Analysis page where we analysed the tweets, looking for most popular words, commonly mentioned tools and more. 
