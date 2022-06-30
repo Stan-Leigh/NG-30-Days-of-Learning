@@ -50,3 +50,8 @@ After, we scraped tweet data. We scraped tweets from Twitter that used the hasht
 
 ## Day 16
 Today's session was a continuation of yesterday's session. We finished building the report on PowerBI. We made an Overview page, Summary page and a Content Analysis page where we analysed the tweets, looking for most popular words, commonly mentioned tools and more. 
+
+## Day 17
+Today, we looked at how to create Dashboards in PowerBI service. We were guided on how to publish out reports from PowerBI Desktop to PowerBI service. We used Car data from [Kaggle](https://aka.ms/30DLDATGitHubRepo) to demonstrate creating and managing interactive dashboards.
+
+This session was led by Mr. Oyinbooke.
