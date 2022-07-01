@@ -55,3 +55,12 @@ Today's session was a continuation of yesterday's session. We finished building 
 Today, we looked at how to create Dashboards in PowerBI service. We were guided on how to publish out reports from PowerBI Desktop to PowerBI service. We used Car data from [Kaggle](https://aka.ms/30DLDATGitHubRepo) to demonstrate creating and managing interactive dashboards.
 
 This session was led by Mr. Oyinbooke.
+
+## Day 18
+We learnt how to schedule refresh in PowerBI Desktop. We learnt about the four PowerBI dataset storage modes; 
+* Import mode
+* DirectQuery mode
+* LiveConnect mode
+* Push mode. 
+
+Data refresh is only for Import mode because the rest of the storage modes pull data from the source everytime a .pbix file is opened but the Import mode takes a snapshot of the data only once, when the data is imported into PowerBI. So it needs to be refreshed if any changes to the data is to be reflected.
