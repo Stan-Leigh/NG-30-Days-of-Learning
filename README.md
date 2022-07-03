@@ -64,3 +64,6 @@ We learnt how to schedule refresh in PowerBI Desktop. We learnt about the four P
 * Push mode. 
 
 Data refresh is only for Import mode because the rest of the storage modes pull data from the source everytime a .pbix file is opened but the Import mode takes a snapshot of the data only once, when the data is imported into PowerBI. So it needs to be refreshed if any changes to the data is to be reflected.
+
+## Day 19 
+We learnt how to control access and govern reports and dashboards. We were taught about row-level security, Basic row-level security and Dynamic row-level security.
