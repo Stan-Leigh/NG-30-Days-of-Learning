@@ -67,3 +67,9 @@ Data refresh is only for Import mode because the rest of the storage modes pull 
 
 ## Day 19 
 We learnt how to control access and govern reports and dashboards. We were taught about row-level security, Basic row-level security and Dynamic row-level security.
+
+## Day 20/21
+Weekend! Finshed the Microsoft Cloud skill Challenge:hugs:
+
+## Day 22 - Day 26
+We were given a [capstone project](https://aka.ms/30DLDATCapstoneProject) so that we would demonstrate all that we have learnt and put our knowledge to use. The project consists of two case studies and we were to do at least one and document on GitHub. 
