@@ -27,3 +27,5 @@ The dataset was cleaned from the get-go but some minor modifications were made i
 * **Sweater Weather** produced by **The Neighborhood** has the highest popularity rating.
 * The most popular genres are **pop**, **hip hop**, **R&B** and **Dance/Electronic**.
 * Year 2018 had the highest average popularity, **70.85**.
+
+![](Spotify.png)
