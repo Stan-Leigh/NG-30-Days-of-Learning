@@ -31,3 +31,5 @@ Analysis of the Airlines Flight delay dataset produced a lot of interesting insi
 
 ## Limitations
 * The dataset does not contain a column that specifies the date these flights happened, so it is difficult to combine it with another dataset in order to drill down and check if these delayed flights are a result of external factors such as weather.
+
+![](Airlines%20report.png)
